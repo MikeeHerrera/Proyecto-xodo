@@ -1,0 +1,7 @@
+{
+  "name": "exodo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
